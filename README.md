@@ -1,1 +1,1 @@
-# introduction-to-javescript--basic-aitmetic-operation
+# introduction-to-javescript--basic-arithmetic-operation
